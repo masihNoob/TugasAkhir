@@ -88,6 +88,8 @@
      <Compile Include="Assets\NavMeshComponents\Scripts\RandomInstancing.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\RandomWalk.cs" />
      <Compile Include="Assets\NavMeshComponents\Scripts\SpawnPrefabOnKeyDown.cs" />
+     <Compile Include="Assets\PathFinding\Script\Dialogue\DialogueSystem.cs" />
+     <Compile Include="Assets\PathFinding\Script\Dialogue\DialogueTrigger.cs" />
      <Compile Include="Assets\PathFinding\Script\NPCScript\FieldOfFiew.cs" />
      <Compile Include="Assets\PathFinding\Script\NPCScript\NPCController.cs" />
      <Compile Include="Assets\PathFinding\Script\RealCamera.cs" />
@@ -97,6 +99,7 @@
      <Compile Include="Assets\PathFinding\Script\Waypoint\NPCguard.cs" />
      <Compile Include="Assets\PathFinding\Script\Waypoint\Waypoint.cs" />
      <Compile Include="Assets\ujicoba\Script\CameraFollow.cs" />
+     <Compile Include="Assets\ujicoba\Script\NavigationLine.cs" />
      <Compile Include="Assets\ujicoba\Script\PlayerControl.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
