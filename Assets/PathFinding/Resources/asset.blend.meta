@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 8c9857af7010df2428112b75a5b7e863
+timeCreated: 1523578067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube_013
+    100004: Cube_032
+    100006: Cube_033
+    100008: Cube_034
+    100010: Cube_035
+    100012: Cube_036
+    100014: Icosphere_014
+    100016: Icosphere_015
+    100018: Icosphere_016
+    100020: Icosphere_017
+    100022: Plane_202
+    100024: Plane_203
+    100026: Plane_204
+    100028: Plane_205
+    100030: Sphere_004
+    100032: Sphere_005
+    100034: Sphere_006
+    100036: Sphere_007
+    400000: //RootNode
+    400002: Cube_013
+    400004: Cube_032
+    400006: Cube_033
+    400008: Cube_034
+    400010: Cube_035
+    400012: Cube_036
+    400014: Icosphere_014
+    400016: Icosphere_015
+    400018: Icosphere_016
+    400020: Icosphere_017
+    400022: Plane_202
+    400024: Plane_203
+    400026: Plane_204
+    400028: Plane_205
+    400030: Sphere_004
+    400032: Sphere_005
+    400034: Sphere_006
+    400036: Sphere_007
+    2100000: kayu1
+    2100002: daun1
+    2100004: daun2
+    2100006: batu
+    2100008: batu2
+    2100010: batu3
+    2100012: batu4
+    2300000: Cube_013
+    2300002: Cube_032
+    2300004: Cube_033
+    2300006: Cube_034
+    2300008: Cube_035
+    2300010: Cube_036
+    2300012: Icosphere_014
+    2300014: Icosphere_015
+    2300016: Icosphere_016
+    2300018: Icosphere_017
+    2300020: Plane_202
+    2300022: Plane_203
+    2300024: Plane_204
+    2300026: Plane_205
+    2300028: Sphere_004
+    2300030: Sphere_005
+    2300032: Sphere_006
+    2300034: Sphere_007
+    3300000: Cube_013
+    3300002: Cube_032
+    3300004: Cube_033
+    3300006: Cube_034
+    3300008: Cube_035
+    3300010: Cube_036
+    3300012: Icosphere_014
+    3300014: Icosphere_015
+    3300016: Icosphere_016
+    3300018: Icosphere_017
+    3300020: Plane_202
+    3300022: Plane_203
+    3300024: Plane_204
+    3300026: Plane_205
+    3300028: Sphere_004
+    3300030: Sphere_005
+    3300032: Sphere_006
+    3300034: Sphere_007
+    4300000: Cube_036
+    4300002: Cube_035
+    4300004: Cube_034
+    4300006: Cube_033
+    4300008: Cube_032
+    4300010: Cube_013
+    4300012: Plane_205
+    4300014: Plane_204
+    4300016: Icosphere_017
+    4300018: Icosphere_016
+    4300020: Sphere_007
+    4300022: Icosphere_015
+    4300024: Icosphere_014
+    4300026: Sphere_006
+    4300028: Sphere_005
+    4300030: Sphere_004
+    4300032: Plane_203
+    4300034: Plane_202
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
