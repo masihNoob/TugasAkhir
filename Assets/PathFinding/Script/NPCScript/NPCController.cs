@@ -12,8 +12,7 @@ public class NPCController : MonoBehaviour {
     float totalWaitTime;
     [SerializeField]
     float switchProbability;
-    //[SerializeField]
-    //List<Waypoint> patrolPoints;
+    
 	FieldOfFiew fieldOfFiew;
 
     //private variable for base behaviour

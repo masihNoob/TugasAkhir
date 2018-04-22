@@ -35,9 +35,7 @@ public class RealCamera : MonoBehaviour{
     // Use this for initialization
     void Start(){
         //the statement below automatically positions the camera behind the target.
-        rotateAround = target.eulerAngles.y - 45f;
- 
- 
+        rotateAround = target.eulerAngles.y - 45f; 
     }
  
     void LateUpdate(){
