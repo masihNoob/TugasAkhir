@@ -26,11 +26,12 @@ public class BaseStat
 	//hapus stat
 	public void RemoveStatBonus(StatBonus _statBonus)
 	{
-		this.BaseAdditives.Remove(_statBonus);
+		this.BaseAdditives.Remove(BaseAdditives.Find(x=> x.BonusValue == _statBonus.BonusValue));
 	}
 	//get stat
 	public int GetCalculateStatValues()
 	{
+		this.FinalValue =0;
 		this.BaseAdditives.ForEach(x => this.FinalValue += x.BonusValue);
 		FinalValue += BaseValue;
 		return FinalValue;

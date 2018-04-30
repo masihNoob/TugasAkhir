@@ -22,9 +22,9 @@ public class DialogueTrigger : MonoBehaviour {
 
 		//Debug.Log(box.size);
 	}
-	private void OnTriggerEnter(Collider other) 
+	protected virtual void OnTriggerStay(Collider other) 
 	{
-		if(other.gameObject.tag == "Player")
+		if(other.gameObject.CompareTag ("Player") && Input.GetKeyDown(KeyCode.F))
 		{
 			DialogueSystem.Instance.AddNewDialogue(dialogue, nameNpc);
 		}
