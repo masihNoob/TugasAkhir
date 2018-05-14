@@ -35,6 +35,7 @@ public class PlayerControl : MonoBehaviour {
 
 		transform.Rotate(0, turnAmount * rotationSpeed * Time.deltaTime, 0);
 		if(_charactercontroller.isGrounded){
+            _animator.speed = 2f;
 			_animator.SetBool("walk", move.magnitude > 0);
 
             _moveDir = transform.forward * move.magnitude;

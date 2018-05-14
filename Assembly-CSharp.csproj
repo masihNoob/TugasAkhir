@@ -100,9 +100,9 @@
      <Compile Include="Assets\PathFinding\Scripts\NPCScript\FieldOfFiew.cs" />
      <Compile Include="Assets\PathFinding\Scripts\NPCScript\NPCController.cs" />
      <Compile Include="Assets\PathFinding\Scripts\PotionLog.cs" />
+     <Compile Include="Assets\PathFinding\Scripts\Questing\CollectionGoal.cs" />
      <Compile Include="Assets\PathFinding\Scripts\Questing\Goal.cs" />
      <Compile Include="Assets\PathFinding\Scripts\Questing\Keys.cs" />
-     <Compile Include="Assets\PathFinding\Scripts\Questing\KillGoal.cs" />
      <Compile Include="Assets\PathFinding\Scripts\Questing\Quest.cs" />
      <Compile Include="Assets\PathFinding\Scripts\Questing\QuestGiver.cs" />
      <Compile Include="Assets\PathFinding\Scripts\Questing\ReleaseQuest.cs" />
@@ -156,6 +156,8 @@
      <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
      <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
      <Compile Include="Assets\ujicoba\Script\CameraFollow.cs" />
+     <Compile Include="Assets\ujicoba\Script\ClickExample.cs" />
+     <Compile Include="Assets\ujicoba\Script\KucingWalk.cs" />
      <Compile Include="Assets\ujicoba\Script\NavigationLine.cs" />
      <Compile Include="Assets\ujicoba\Script\PlayerControl.cs" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
