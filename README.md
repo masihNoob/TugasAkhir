@@ -20,7 +20,7 @@ klik run pada unity
 
 ## Contributors
 
-dimas dan rosa. 
+shobirin, dimas dan rosa. 
 
 ## License
 
